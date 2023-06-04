@@ -14,7 +14,10 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 
 4.	Compute the y -intercept of the line by using the formula:
-![exp 9 step 4](https://github.com/Safeeq-Fazil/Univariate-Linear-Regression/assets/118680361/91251e7a-2122-4546-80a5-0736c4170edd)
+
+
+
+![exp 9 step 4](https://github.com/Safeeq-Fazil/Univariate-Linear-Regression/assets/118680361/5584f4ca-2118-430b-9e71-1ba59e748108)
 
 5.	Use the slope m and the y -intercept to form the equation of the line.
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
